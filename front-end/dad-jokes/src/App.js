@@ -1,6 +1,9 @@
 import React from 'react';
 import { Route } from "react-router-dom";
 
+import Register from "../components/register.js";
+import Login from "../components/login.js";
+
 
 function App() {
   return (
